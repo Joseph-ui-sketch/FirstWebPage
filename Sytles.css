@@ -12,3 +12,31 @@ p {
 li {
     color: orange;
 }
+div {
+    height: 100px;
+    width: 100px;
+}
+#color1{
+    background-color: #0c94e5;
+}
+#color2{
+    background-color: #0cffc7;
+}
+#color3{
+    background-color: #14de0d;
+}
+#color4{
+    background-color: #a2cb10;
+}
+#color5{
+    background-color: #ffae00;
+}
+#color6{
+    background-color: #dc4c0e;
+}
+#color7{
+    background-color: #ff3303;
+}
+#color8{
+    background-color: #ff0000;
+}
