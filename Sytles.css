@@ -62,3 +62,26 @@ a:active {
     color: #00ffcf;
 }
 
+p{
+    background-color: #ffae00 !important; color: dodgerblue;
+}
+
+p{
+    background-color: turquoise;
+}
+
+.later{
+    color: #dc4c0e;
+}
+
+.again{
+color: lightskyblue
+}
+
+#First{
+    color: white;
+}
+
+#Second{
+    color: white;
+}
