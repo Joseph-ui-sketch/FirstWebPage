@@ -40,3 +40,25 @@ div {
 #color8{
     background-color: #ff0000;
 }
+
+
+div:hover {
+    background-color: cornflowerblue;
+}
+
+a:link {
+    color: #00ffcf;
+}
+
+a:visited {
+    color: #00ffcf;
+}
+
+a:hover {
+    color: #00ffcf;
+}
+
+a:active {
+    color: #00ffcf;
+}
+
